@@ -45,7 +45,7 @@ If you reuse or adapt this flyer, please give credit.
 ## ✍️ Author
  
 📧 Email: your.email@example.com  
-🌐 Portfolio: [Your Website or Behance/Fiverr Link]
+
 
 
 ✍️ Created by shraddha 
