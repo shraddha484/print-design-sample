@@ -4,36 +4,49 @@
 ![Flyer Preview](assets/ironbeast-flyer-web.png)
 
 ## 📌 Project Overview
-This is a sample print design project for **Iron Beast Fitness**.  
-It is a flyer created to promote the **Grand Opening** event.
+This is a **sample print design project** created for **Iron Beast Fitness**.  
+The flyer is designed to promote the **Grand Opening** event with a bold and eye-catching layout.
 
-The design showcases:
-- Bold typography for impact  
-- Eye-catching promotional highlights  
-- Clear event details  
+**Key Features:**
+- Strong typography for maximum impact  
+- Highlighted promotional offers  
+- Clear event details for easy readability  
+
+---
 
 ## 📂 Files Included
-- `assets/ironbeast-flyer-web.png` — Web preview (compressed for fast loading)  
+- `assets/ironbeast-flyer-web.png` — Web-optimized preview  
 - `assets/ironbeast-flyer-print.pdf` — Print-ready file (300 DPI, CMYK, bleed included)  
-- `source/` — Original design source files (AI/PSD) 
+- `source/` — Original design source files (AI/PSD) *(optional)*  
+
+---
 
 ## 🖨️ Print Specifications
 - Resolution: 300 DPI  
-- Color mode: CMYK  
+- Color Mode: CMYK  
 - Bleed: 3mm  
 - Format: PDF/X-4 (print-ready)  
 
+---
+
 ## 🌐 Web Version
-- Optimized PNG/JPG for web sharing  
+- Optimized PNG/JPG for fast web loading  
 - sRGB color profile  
-- File size reduced for quick loading  
+
+---
 
 ## 📜 License
 This project is shared for **portfolio/demo purposes**.  
 If you reuse or adapt this flyer, please give credit.  
-You may choose a license that fits your needs (MIT, CC BY-NC 4.0, etc.).
+
 
 ---
+
+## ✍️ Author
+ 
+📧 Email: your.email@example.com  
+🌐 Portfolio: [Your Website or Behance/Fiverr Link]
+
 
 ✍️ Created by shraddha 
 📧 Contact: thinkneuofficial@gmail.com
